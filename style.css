@@ -5,9 +5,10 @@ background-color: brown;
 }
 h1{
 color: brown;
+  background-color: white;
 
 }
 p{
 background-color: burlywood;
-
+color: white;
 }
